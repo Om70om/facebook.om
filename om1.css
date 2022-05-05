@@ -1,0 +1,108 @@
+*{margin: 0; padding: 0;box-sizing: border-box;}
+
+.logo h1{
+  color: rgb(25%, 45%, 100%);
+  margin-top: 10px;
+  margin-left: 8px;
+  font-size: 25px;
+}
+.right{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.right1{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.head{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0px;
+ 
+  
+  background-color: white;
+  box-shadow: 0 5px 8px -9px rgba(0, 0, 0, 0.90);
+}
+.right1 .material-icons{
+  position: absolute;
+  right: 20px;
+ background-color: #eff2f5;
+ border-radius: 50%;
+ 
+  
+}
+.right .material-icons{
+  position: absolute;
+  right: 100px;
+  
+}
+.right input{
+  display: flex;
+  align-items: center;
+ background-color: #eff2f5;
+  padding: 10px;
+  margin-left: 10px;
+  border-radius: 999px;
+  }
+  .right input{
+  border: none;
+  background-color: #eff2f5;
+  outline-width: 0;
+
+  }
+.middle{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 15px;
+  
+  color: black;
+  
+}
+.middle .first a:hover{
+  color: blue;
+}
+.middle .second a:hover{
+  color: blue;
+}
+.middle .third a:hover{
+  color: blue;
+}
+.middle .four a:hover{
+  color: blue;
+}
+.middle .five a:hover {
+  color: blue;
+}
+
+.middle .six a:hover {
+  color: blue;
+  
+}
+
+/* ancher tag */
+
+.middle .first  a{
+  color: black;
+}
+.middle .second a{
+  color: black;
+}
+.middle .third  a{
+  color: black;
+}
+.middle .four   a{
+  color: black;
+}
+.middle .five   a{
+  color: black;
+}
+.middle .six    a{
+  color: black;
+}
+.middle a{
+  text-decoration:none;
+}
